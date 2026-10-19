@@ -58,3 +58,4 @@ Servicios locales:
 - No borrar archivos base.
 - No editar respuestas de otros estudiantes.
 - No subir `.env`, dumps grandes, bases locales ni archivos temporales.
+# bd_vectoriales_qdrant
